@@ -1,3 +1,4 @@
+
 `timescale 1ns/1ns
 module ALU(input [15:0] ri,rj,input [2:0] f,output [15:0] w,output zero);
   assign w = (f == 3'b 000)? ri + rj:
@@ -9,3 +10,4 @@ module ALU(input [15:0] ri,rj,input [2:0] f,output [15:0] w,output zero);
   assign zero = (ri - rj == 16'b0)? 0:1; 
    
 endmodule
+
