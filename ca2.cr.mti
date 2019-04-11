@@ -1,4 +1,18 @@
-D:/simulation/CA/ca2/ALU.v {1 {vlog -work work D:/simulation/CA/ca2/ALU.v
+D:/simulation/CA/mips/computer_Architecture_CA2/contoroller.v {1 {vlog -work work D:/simulation/CA/mips/computer_Architecture_CA2/contoroller.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module controller
+
+Top level modules:
+	controller
+
+} {} {}} D:/simulation/CA/ca2/PC.v {1 {vlog -work work D:/simulation/CA/ca2/PC.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module PC
+
+Top level modules:
+	PC
+
+} {} {}} D:/simulation/CA/ca2/ALU.v {1 {vlog -work work D:/simulation/CA/ca2/ALU.v
 Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
 -- Compiling module ALU
 
