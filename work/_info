@@ -36,12 +36,31 @@ r1
 31
 Z19 !s90 -reportprogress|300|-work|work|D:/simulation/CA/mips/computer_Architecture_CA2/contoroller.v|
 R10
-!i10b 1
 Z20 !s100 3>7kD``5D23EP9;DMKUG=3
-!s85 0
 Z21 !s108 1554982438.601000
 Z22 !s107 D:/simulation/CA/mips/computer_Architecture_CA2/contoroller.v|
+!i10b 1
+!s85 0
 !s101 -O0
+vextend
+!i10b 1
+!s100 UYVRa=b7jX`EQ5[Y2SkdO3
+Ib`8Z`U<DBb2>EU41Y<GF00
+V>A=51XS8W@fmE=RJg2ghe2
+R4
+w1554983836
+8D:/simulation/CA/mips/computer_Architecture_CA2/branchz.v
+FD:/simulation/CA/mips/computer_Architecture_CA2/branchz.v
+L0 2
+R8
+r1
+!s85 0
+31
+!s108 1554983838.552000
+!s107 D:/simulation/CA/mips/computer_Architecture_CA2/branchz.v|
+!s90 -reportprogress|300|-work|work|D:/simulation/CA/mips/computer_Architecture_CA2/branchz.v|
+!s101 -O0
+R10
 vmux
 Z23 !s100 00@49=G7U_7]mZ:kJ]b@o1
 Z24 I3?P1o?Dbo=F0_@AH^`dnf1
@@ -82,7 +101,6 @@ Z40 !s107 D:/simulation/CA/ca2/PC.v|
 !s85 0
 !s101 -O0
 vreadFile
-!i10b 1
 Z41 !s100 BFei<=K[M2mHl<51caRIc0
 Z42 Ik[6:0928`NahRQCT5lbkT1
 Z43 V][dmSlzk0Nzha=^8GNaz>3
@@ -93,30 +111,31 @@ Z46 FD:/simulation/CA/mips/computer_Architecture_CA2/readFile.v
 L0 2
 R8
 r1
-!s85 0
 31
-!s108 1554982438.915000
-!s107 D:/simulation/CA/mips/computer_Architecture_CA2/readFile.v|
 Z47 !s90 -reportprogress|300|-work|work|D:/simulation/CA/mips/computer_Architecture_CA2/readFile.v|
-!s101 -O0
 R10
 Z48 nread@file
+Z49 !s108 1554982438.915000
+Z50 !s107 D:/simulation/CA/mips/computer_Architecture_CA2/readFile.v|
+!i10b 1
+!s85 0
+!s101 -O0
 vwnd
-Z49 If:KAmc_jR=QlRi<RA?9S]2
-Z50 VPg8WEdUL=CDRAhU1G@k0l3
-Z51 dD:\simulation\CA\ca2
-Z52 w1554368117
-Z53 8D:/simulation/CA/ca2/wnd.v
-Z54 FD:/simulation/CA/ca2/wnd.v
+Z51 If:KAmc_jR=QlRi<RA?9S]2
+Z52 VPg8WEdUL=CDRAhU1G@k0l3
+Z53 dD:\simulation\CA\ca2
+Z54 w1554368117
+Z55 8D:/simulation/CA/ca2/wnd.v
+Z56 FD:/simulation/CA/ca2/wnd.v
 L0 2
 R8
 r1
 31
 R10
-Z55 !s100 1oTDTjRdUVjd_Ug8X<1Al2
-Z56 !s108 1554375540.353000
-Z57 !s107 D:/simulation/CA/ca2/wnd.v|
-Z58 !s90 -reportprogress|300|-work|work|D:/simulation/CA/ca2/wnd.v|
+Z57 !s100 1oTDTjRdUVjd_Ug8X<1Al2
+Z58 !s108 1554375540.353000
+Z59 !s107 D:/simulation/CA/ca2/wnd.v|
+Z60 !s90 -reportprogress|300|-work|work|D:/simulation/CA/ca2/wnd.v|
 !i10b 1
 !s85 0
 !s101 -O0
