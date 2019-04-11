@@ -1,7 +1,7 @@
 
 `timescale 1ns/1ns
-module ALU(input [15:0] ri,rj,input [2:0] func,output [15:0] w,output zero);
-  assign w = (func == 3'b 000)? ri + rj:
+module ALU(input [15:0] ri,rj,input [2:0] func,output [15:0] out,output zero);
+  assign out = (func == 3'b 000)? ri + rj:
              (func == 3'b 001)? ri - rj:
              (func == 3'b 010)? ri & rj:
              (func == 3'b 011)? ri | rj:
