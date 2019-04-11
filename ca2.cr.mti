@@ -1,1 +1,8 @@
+D:/simulation/CA/ca2/ALU.v {1 {vlog -work work D:/simulation/CA/ca2/ALU.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module ALU
 
+Top level modules:
+	ALU
+
+} {} {}}
