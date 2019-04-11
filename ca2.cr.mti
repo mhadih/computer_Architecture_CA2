@@ -1,16 +1,9 @@
-D:/simulation/CA/mips/computer_Architecture_CA2/contoroller.v {1 {vlog -work work D:/simulation/CA/mips/computer_Architecture_CA2/contoroller.v
+D:/simulation/CA/mips/computer_Architecture_CA2/PC.v {1 {vlog -work work D:/simulation/CA/mips/computer_Architecture_CA2/PC.v
 Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
--- Compiling module controller
+-- Compiling module PC
 
 Top level modules:
-	controller
-
-} {} {}} D:/simulation/CA/mips/computer_Architecture_CA2/branchz.v {1 {vlog -work work D:/simulation/CA/mips/computer_Architecture_CA2/branchz.v
-Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
--- Compiling module extend
-
-Top level modules:
-	extend
+	PC
 
 } {} {}} D:/simulation/CA/mips/computer_Architecture_CA2/extend.v {1 {vlog -work work D:/simulation/CA/mips/computer_Architecture_CA2/extend.v
 Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
@@ -25,5 +18,26 @@ Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
 
 Top level modules:
 	readFile
+
+} {} {}} D:/simulation/CA/mips/computer_Architecture_CA2/ALU.v {1 {vlog -work work D:/simulation/CA/mips/computer_Architecture_CA2/ALU.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module ALU
+
+Top level modules:
+	ALU
+
+} {} {}} D:/simulation/CA/mips/computer_Architecture_CA2/IM.v {1 {vlog -work work D:/simulation/CA/mips/computer_Architecture_CA2/IM.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module IM
+
+Top level modules:
+	IM
+
+} {} {}} D:/simulation/CA/mips/computer_Architecture_CA2/mux.v {1 {vlog -work work D:/simulation/CA/mips/computer_Architecture_CA2/mux.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module mux
+
+Top level modules:
+	mux
 
 } {} {}}
