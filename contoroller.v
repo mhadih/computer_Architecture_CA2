@@ -19,12 +19,22 @@ module controller(input [3:0] opcode,input [7:0] fun,input zero,output reg [2:0]
        
        if(opcode[1:0] == 2'b0) begin 
         if(fun[7:0]==8'b1) wen = 1; 
-        if(fun[7:0]==8'b10) resfun = 1; seldata=1; wen = 1;
-        if(fun[7:0]==8'b100) resfun = 2; seldata=1; wen = 1;
-        if(fun[7:0]==8'b1000) resfun = 3; seldata=1; wen = 1;
-        if(fun[7:0]==8'b10000) resfun = 4; seldata=1; wen = 1;
-        if(fun[7:0]==8'b100000) resfun = 5; seldata=1; wen = 1;
-        if(fun[7:0]==8'b1000000) resfun = 6;
+        if(fun[7:0]==8'b10) begin
+           resfun = 1; seldata=1; wen = 1;
+        end
+        if(fun[7:0]==8'b100) begin 
+          resfun = 2; seldata=1; wen = 1;
+        end
+        if(fun[7:0]==8'b1000) begin 
+          resfun = 3; seldata=1; wen = 1;
+        end
+        if(fun[7:0]==8'b10000) begin 
+          resfun = 4; seldata=1; wen = 1;
+        end
+        if(fun[7:0]==8'b100000) begin
+          resfun = 5; seldata=1; wen = 1;
+        end
+        if(fun[7:0]==8'b1000000)  resfun = 6;
         if(fun[7:0]==8'b10000000) ldwnd = 1;
         if(fun[7:0]==8'b10000001) ldwnd = 1;
         if(fun[7:0]==8'b10000010) ldwnd = 1;
@@ -51,3 +61,4 @@ module controller(input [3:0] opcode,input [7:0] fun,input zero,output reg [2:0]
      
     
 endmodule 
+
