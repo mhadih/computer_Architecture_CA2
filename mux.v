@@ -1,6 +1,5 @@
-
 `timescale 1ns/1ns
-module mux(in0,in1,sel,out);
+module MUX(in0,in1,sel,out);
   parameter n;
   input [n:0] in0,in1;
   input sel;
