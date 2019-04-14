@@ -1,7 +1,12 @@
 `timescale 1ns/1ns
 module IM( input [9:0] pc,output [15:0] insOut);
   reg [15:0] im [0:1023];
+
+    integer i;
   initial begin
+
+    for (i=0; i<=1023;i=i+1) 
+      im[i] = 16'b0;
     
     im[0] = 16'b1000000010000000;//win0
     im[1] = 16'b1000010100000100;//sub R1 R1

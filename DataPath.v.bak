@@ -30,7 +30,7 @@ RegFile registerFile(.R1(ins[11:10]), .wReg(ins[11:10]), .R2(ins[9:8]), .wnd(ins
 
 signExtend extend(.imm(ins[7:0]), .outimm(immExt));
                    
-MUX #(.n(16)) immediateMUX(.in0(Reg1), .in1(immExt), .sel(selimm), .out(AIn));
+MUX immediateMUX(.in0(Reg1), .in1(immExt), .sel(selimm), .out(AIn));
 
 ALU #(16) Alu(.ri(Ain), .rj(Reg2), .func(func), .out(resAlu), .zero(zero));
 

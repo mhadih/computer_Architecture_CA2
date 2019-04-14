@@ -2,7 +2,7 @@ library verilog;
 use verilog.vl_types.all;
 entity MUX is
     generic(
-        n               : vl_notype
+        n               : vl_logic_vector(31 downto 0)
     );
     port(
         in0             : in     vl_logic_vector;
@@ -11,5 +11,5 @@ entity MUX is
         \out\           : out    vl_logic_vector
     );
     attribute mti_svvh_generic_type : integer;
-    attribute mti_svvh_generic_type of n : constant is 5;
+    attribute mti_svvh_generic_type of n : constant is 6;
 end MUX;

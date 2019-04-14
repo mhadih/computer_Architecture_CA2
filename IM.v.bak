@@ -2,6 +2,9 @@
 module IM( input [9:0] pc,output [15:0] insOut);
   reg [15:0] im [0:1023];
   initial begin
+    integer i;
+    for (i=0; i<=1023;i=i+1) 
+      im[i] = 16'b0;
     
     im[0] = 16'b1000000010000000;//win0
     im[1] = 16'b1000010100000100;//sub R1 R1
@@ -25,7 +28,7 @@ module IM( input [9:0] pc,output [15:0] insOut);
     im[19] = 16'b1000011000000010;//add R1 to R2
     im[20] = 16'b0000100000010011;//load to R2
     im[21] = 16'b1000011000000010;//add R1 to R2
-    in[22] = 16'b0001100000010100;//mem[20] = r2
+    im[22] = 16'b0001100000010100;//mem[20] = r2
   end
    assign insOut = im[pc];
 endmodule 
