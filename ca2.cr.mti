@@ -1,4 +1,11 @@
-D:/simulation/CA/mips/computer_Architecture_CA2/mem.v {1 {vlog -work work D:/simulation/CA/mips/computer_Architecture_CA2/mem.v
+D:/simulation/CA/mips/computer_Architecture_CA2/DataPath.v {1 {vlog -work work D:/simulation/CA/mips/computer_Architecture_CA2/DataPath.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module datapath
+
+Top level modules:
+	datapath
+
+} {} {}} D:/simulation/CA/mips/computer_Architecture_CA2/mem.v {1 {vlog -work work D:/simulation/CA/mips/computer_Architecture_CA2/mem.v
 Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
 -- Compiling module memory
 
@@ -46,13 +53,6 @@ Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
 
 Top level modules:
 	TB
-
-} {} {}} D:/simulation/CA/mips/computer_Architecture_CA2/IM.v {1 {vlog -work work D:/simulation/CA/mips/computer_Architecture_CA2/IM.v
-Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
--- Compiling module IM
-
-Top level modules:
-	IM
 
 } {} {}} D:/simulation/CA/mips/computer_Architecture_CA2/ALU.v {1 {vlog -work work D:/simulation/CA/mips/computer_Architecture_CA2/ALU.v
 Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
