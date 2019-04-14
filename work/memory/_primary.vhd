@@ -6,6 +6,6 @@ entity memory is
         data            : in     vl_logic_vector(15 downto 0);
         memwen          : in     vl_logic;
         clk             : in     vl_logic;
-        memdata         : out    vl_logic
+        resMem          : out    vl_logic
     );
 end memory;

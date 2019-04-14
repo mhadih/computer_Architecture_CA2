@@ -4,177 +4,237 @@ K3
 cModel Technology
 Z0 dD:\simulation\CA\fCa1
 vALU
-!i10b 1
-!s100 NG60I@0VBLGnSZ1hNUDJV1
-I7M5`GJQm]U35FKiY9[2DZ1
-Z1 VVYm84n3fdl>5mliRA`a9>3
-Z2 dD:\simulation\CA\mips\computer_Architecture_CA2
-w1554990931
-Z3 8D:/simulation/CA/mips/computer_Architecture_CA2/ALU.v
-Z4 FD:/simulation/CA/mips/computer_Architecture_CA2/ALU.v
+Z1 !s100 CDJ`[^Z_nZ38hj1hf2imP0
+Z2 IDYHS20dUOPnZTo?h:SOVK2
+Z3 VjajU=mH3^^OKSXIClC2cY0
+Z4 dD:\simulation\CA\mips\computer_Architecture_CA2
+Z5 w1555213158
+Z6 8D:/simulation/CA/mips/computer_Architecture_CA2/ALU.v
+Z7 FD:/simulation/CA/mips/computer_Architecture_CA2/ALU.v
 L0 3
-Z5 OV;L;10.1d;51
+Z8 OV;L;10.1d;51
 r1
+31
+Z9 !s90 -reportprogress|300|-work|work|D:/simulation/CA/mips/computer_Architecture_CA2/ALU.v|
+Z10 o-work work -O0
+Z11 n@a@l@u
+Z12 !s108 1555213443.314000
+Z13 !s107 D:/simulation/CA/mips/computer_Architecture_CA2/ALU.v|
+!i10b 1
 !s85 0
-31
-!s108 1554990938.226000
-!s107 D:/simulation/CA/mips/computer_Architecture_CA2/ALU.v|
-Z6 !s90 -reportprogress|300|-work|work|D:/simulation/CA/mips/computer_Architecture_CA2/ALU.v|
 !s101 -O0
-Z7 o-work work -O0
-Z8 n@a@l@u
 vcontroller
-Z9 !s100 3>7kD``5D23EP9;DMKUG=3
-Z10 IB0TLYoZc?SQDWHflL;]:E0
-Z11 VT9`94M[^Q_OeL`72YR34n2
-R2
-Z12 w1554987561
-Z13 8D:/simulation/CA/mips/computer_Architecture_CA2/contoroller.v
-Z14 FD:/simulation/CA/mips/computer_Architecture_CA2/contoroller.v
+Z14 !s100 7?aS5E8hL6_1bTKgNSAmI2
+Z15 I<DmOYO2[`aIeD1I5L?MIf3
+Z16 VdJPQ[G9fcTlYJLlITEUJE3
+R4
+Z17 w1555212955
+Z18 8D:/simulation/CA/mips/computer_Architecture_CA2/contoroller.v
+Z19 FD:/simulation/CA/mips/computer_Architecture_CA2/contoroller.v
 L0 2
-R5
+R8
 r1
 31
-Z15 !s90 -reportprogress|300|-work|work|D:/simulation/CA/mips/computer_Architecture_CA2/contoroller.v|
-R7
-Z16 !s108 1554987563.845000
-Z17 !s107 D:/simulation/CA/mips/computer_Architecture_CA2/contoroller.v|
+Z20 !s90 -reportprogress|300|-work|work|D:/simulation/CA/mips/computer_Architecture_CA2/contoroller.v|
+R10
+Z21 !s108 1555213441.814000
+Z22 !s107 D:/simulation/CA/mips/computer_Architecture_CA2/contoroller.v|
 !i10b 1
 !s85 0
 !s101 -O0
 vextend
-Z18 Ib`8Z`U<DBb2>EU41Y<GF00
-Z19 V>A=51XS8W@fmE=RJg2ghe2
-R2
-Z20 w1554983836
-Z21 8D:/simulation/CA/mips/computer_Architecture_CA2/branchz.v
-Z22 FD:/simulation/CA/mips/computer_Architecture_CA2/branchz.v
+Z23 Ib`8Z`U<DBb2>EU41Y<GF00
+Z24 V>A=51XS8W@fmE=RJg2ghe2
+R4
+Z25 w1554983836
+Z26 8D:/simulation/CA/mips/computer_Architecture_CA2/branchz.v
+Z27 FD:/simulation/CA/mips/computer_Architecture_CA2/branchz.v
 L0 2
-R5
+R8
 r1
 31
-R7
-Z23 !s100 UYVRa=b7jX`EQ5[Y2SkdO3
-Z24 !s108 1554984270.408000
-Z25 !s107 D:/simulation/CA/mips/computer_Architecture_CA2/branchz.v|
-Z26 !s90 -reportprogress|300|-work|work|D:/simulation/CA/mips/computer_Architecture_CA2/branchz.v|
+R10
+Z28 !s100 UYVRa=b7jX`EQ5[Y2SkdO3
+Z29 !s108 1554984270.408000
+Z30 !s107 D:/simulation/CA/mips/computer_Architecture_CA2/branchz.v|
+Z31 !s90 -reportprogress|300|-work|work|D:/simulation/CA/mips/computer_Architecture_CA2/branchz.v|
 !i10b 1
 !s85 0
 !s101 -O0
 vIM
-Z27 IlF:FQ`iU^fIoZnAUho24L3
-Z28 VZZ_U;@X:;N?M<_nmFY0aK2
-R2
-Z29 w1554986903
-Z30 8D:/simulation/CA/mips/computer_Architecture_CA2/IM.v
-Z31 FD:/simulation/CA/mips/computer_Architecture_CA2/IM.v
+Z32 !s100 iF56hz@GffQM<fd:cb6^Z1
+Z33 I48MNS_`nz:gB1]B3620Bn0
+Z34 V8@QQAIRZ0dE0Pff`2^1aL3
+R4
+R17
+Z35 8D:/simulation/CA/mips/computer_Architecture_CA2/IM.v
+Z36 FD:/simulation/CA/mips/computer_Architecture_CA2/IM.v
 L0 2
-R5
+R8
 r1
 31
-R7
+Z37 !s90 -reportprogress|300|-work|work|D:/simulation/CA/mips/computer_Architecture_CA2/IM.v|
+R10
 n@i@m
-Z32 !s100 2kAnT38aYTg>@kHcjI<Kg0
-Z33 !s108 1554986905.902000
-Z34 !s107 D:/simulation/CA/mips/computer_Architecture_CA2/IM.v|
-Z35 !s90 -reportprogress|300|-work|work|D:/simulation/CA/mips/computer_Architecture_CA2/IM.v|
+Z38 !s108 1555213443.642000
+Z39 !s107 D:/simulation/CA/mips/computer_Architecture_CA2/IM.v|
 !i10b 1
 !s85 0
 !s101 -O0
 vmemory
-Z36 IaTEL<YKm_9EE`Xc_b<E=V0
-Z37 V[^OmLifzJSJnAoQFeleYF0
-R2
-Z38 w1554987632
-Z39 8D:/simulation/CA/mips/computer_Architecture_CA2/mem.v
-Z40 FD:/simulation/CA/mips/computer_Architecture_CA2/mem.v
+Z40 !s100 KY?@Yg^[@nIOHZ<?GUhA<3
+Z41 I>R[UH3UVX;;bIkQ6HFMHM1
+Z42 VIXkFFogma54S1zk9E7<S[3
+R4
+R17
+Z43 8D:/simulation/CA/mips/computer_Architecture_CA2/mem.v
+Z44 FD:/simulation/CA/mips/computer_Architecture_CA2/mem.v
 L0 2
-R5
+R8
 r1
 31
-R7
+Z45 !s90 -reportprogress|300|-work|work|D:/simulation/CA/mips/computer_Architecture_CA2/mem.v|
+R10
 !i10b 1
-Z41 !s100 n6kl_C>Al<<_Zo9O]aOON2
 !s85 0
-Z42 !s108 1554987634.153000
-Z43 !s107 D:/simulation/CA/mips/computer_Architecture_CA2/mem.v|
-Z44 !s90 -reportprogress|300|-work|work|D:/simulation/CA/mips/computer_Architecture_CA2/mem.v|
+Z46 !s108 1555213444.002000
+Z47 !s107 D:/simulation/CA/mips/computer_Architecture_CA2/mem.v|
 !s101 -O0
 vmux
-Z45 Ic4_8>jCh7G`]CM==P?_e10
-Z46 V_0ITh=U9^Vb;[ZVWN9gnC3
-R2
-Z47 w1554984230
-Z48 8D:/simulation/CA/mips/computer_Architecture_CA2/mux.v
-Z49 FD:/simulation/CA/mips/computer_Architecture_CA2/mux.v
+Z48 Ic4_8>jCh7G`]CM==P?_e10
+Z49 V_0ITh=U9^Vb;[ZVWN9gnC3
+R4
+Z50 w1554984230
+Z51 8D:/simulation/CA/mips/computer_Architecture_CA2/mux.v
+Z52 FD:/simulation/CA/mips/computer_Architecture_CA2/mux.v
 L0 3
-R5
+R8
 r1
 31
-R7
-Z50 !s100 3XZO]kFmco^;Bzh?bA_Fa3
-Z51 !s108 1554984270.823000
-Z52 !s107 D:/simulation/CA/mips/computer_Architecture_CA2/mux.v|
-Z53 !s90 -reportprogress|300|-work|work|D:/simulation/CA/mips/computer_Architecture_CA2/mux.v|
+R10
+Z53 !s100 3XZO]kFmco^;Bzh?bA_Fa3
+Z54 !s108 1554984270.823000
+Z55 !s107 D:/simulation/CA/mips/computer_Architecture_CA2/mux.v|
+Z56 !s90 -reportprogress|300|-work|work|D:/simulation/CA/mips/computer_Architecture_CA2/mux.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vMUX
+Z57 !s100 `=C6hLNHkPQ0bPMOO64]U2
+Z58 I>1b;b1VhGih2S`kzQ_VHR1
+Z59 VbGdJMVm]Wj^?fT^XKl;2V2
+R4
+R17
+R51
+R52
+L0 2
+R8
+r1
+31
+R56
+R10
+Z60 n@m@u@x
+Z61 !s108 1555213442.939000
+R55
 !i10b 1
 !s85 0
 !s101 -O0
 vPC
-Z54 I>h?O=6G4PaEUmGO1z1JnA2
-Z55 VYF855kRkYj7=1?N2jd0i70
-R2
-Z56 w1554984210
-Z57 8D:/simulation/CA/mips/computer_Architecture_CA2/PC.v
-Z58 FD:/simulation/CA/mips/computer_Architecture_CA2/PC.v
+Z62 !s100 DZUA6YSfZkJa7aElcg5[n3
+Z63 I>h?O=6G4PaEUmGO1z1JnA2
+Z64 VYF855kRkYj7=1?N2jd0i70
+R4
+Z65 w1554984210
+Z66 8D:/simulation/CA/mips/computer_Architecture_CA2/PC.v
+Z67 FD:/simulation/CA/mips/computer_Architecture_CA2/PC.v
 L0 3
-R5
+R8
 r1
 31
-R7
+Z68 !s90 -reportprogress|300|-work|work|D:/simulation/CA/mips/computer_Architecture_CA2/PC.v|
+R10
 n@p@c
-Z59 !s100 DZUA6YSfZkJa7aElcg5[n3
-Z60 !s108 1554984270.559000
-Z61 !s107 D:/simulation/CA/mips/computer_Architecture_CA2/PC.v|
-Z62 !s90 -reportprogress|300|-work|work|D:/simulation/CA/mips/computer_Architecture_CA2/PC.v|
+Z69 !s108 1555213442.611000
+Z70 !s107 D:/simulation/CA/mips/computer_Architecture_CA2/PC.v|
 !i10b 1
 !s85 0
 !s101 -O0
 vreadFile
-Z63 !s100 BFei<=K[M2mHl<51caRIc0
-Z64 Ik[6:0928`NahRQCT5lbkT1
-Z65 V][dmSlzk0Nzha=^8GNaz>3
-R2
-Z66 w1554982401
-Z67 8D:/simulation/CA/mips/computer_Architecture_CA2/readFile.v
-Z68 FD:/simulation/CA/mips/computer_Architecture_CA2/readFile.v
+Z71 !s100 BFei<=K[M2mHl<51caRIc0
+Z72 Ik[6:0928`NahRQCT5lbkT1
+Z73 V][dmSlzk0Nzha=^8GNaz>3
+R4
+Z74 w1554982401
+Z75 8D:/simulation/CA/mips/computer_Architecture_CA2/readFile.v
+Z76 FD:/simulation/CA/mips/computer_Architecture_CA2/readFile.v
 L0 2
-R5
+R8
 r1
 31
-Z69 !s90 -reportprogress|300|-work|work|D:/simulation/CA/mips/computer_Architecture_CA2/readFile.v|
-R7
-Z70 nread@file
-Z71 !s108 1554984270.175000
-Z72 !s107 D:/simulation/CA/mips/computer_Architecture_CA2/readFile.v|
+Z77 !s90 -reportprogress|300|-work|work|D:/simulation/CA/mips/computer_Architecture_CA2/readFile.v|
+R10
+Z78 nread@file
+Z79 !s108 1554984270.175000
+Z80 !s107 D:/simulation/CA/mips/computer_Architecture_CA2/readFile.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vRegFile
+!i10b 1
+Z81 !s100 S5DS5[A]HmA0HgT_X=Z591
+Z82 IAIT=KTLoY1AXS?nccATQc1
+Z83 VRmDl`IG]3U]^0zC1YHdmo0
+R4
+R17
+Z84 8D:/simulation/CA/mips/computer_Architecture_CA2/registerFile.v
+Z85 FD:/simulation/CA/mips/computer_Architecture_CA2/registerFile.v
+L0 2
+R8
+r1
+!s85 0
+31
+!s108 1555213444.330000
+!s107 D:/simulation/CA/mips/computer_Architecture_CA2/registerFile.v|
+Z86 !s90 -reportprogress|300|-work|work|D:/simulation/CA/mips/computer_Architecture_CA2/registerFile.v|
+!s101 -O0
+R10
+Z87 n@reg@file
+vsignExtend
+Z88 !s100 V:QMo9dXlJL1@nbWTLZ5=1
+Z89 IdkDl[iPJPPendlk2UO9eo1
+Z90 Va6BMhP1hFE?KoUXRai81@3
+R4
+R17
+Z91 8D:/simulation/CA/mips/computer_Architecture_CA2/extend.v
+Z92 FD:/simulation/CA/mips/computer_Architecture_CA2/extend.v
+L0 2
+R8
+r1
+31
+Z93 !s90 -reportprogress|300|-work|work|D:/simulation/CA/mips/computer_Architecture_CA2/extend.v|
+R10
+Z94 nsign@extend
+Z95 !s108 1555213442.173000
+Z96 !s107 D:/simulation/CA/mips/computer_Architecture_CA2/extend.v|
 !i10b 1
 !s85 0
 !s101 -O0
 vwnd
-Z73 If:KAmc_jR=QlRi<RA?9S]2
-Z74 VPg8WEdUL=CDRAhU1G@k0l3
-Z75 dD:\simulation\CA\ca2
-Z76 w1554368117
-Z77 8D:/simulation/CA/ca2/wnd.v
-Z78 FD:/simulation/CA/ca2/wnd.v
+Z97 If:KAmc_jR=QlRi<RA?9S]2
+Z98 VPg8WEdUL=CDRAhU1G@k0l3
+Z99 dD:\simulation\CA\ca2
+Z100 w1554368117
+Z101 8D:/simulation/CA/ca2/wnd.v
+Z102 FD:/simulation/CA/ca2/wnd.v
 L0 2
-R5
+R8
 r1
 31
-R7
-Z79 !s100 1oTDTjRdUVjd_Ug8X<1Al2
-Z80 !s108 1554375540.353000
-Z81 !s107 D:/simulation/CA/ca2/wnd.v|
-Z82 !s90 -reportprogress|300|-work|work|D:/simulation/CA/ca2/wnd.v|
+R10
+Z103 !s100 1oTDTjRdUVjd_Ug8X<1Al2
+Z104 !s108 1554375540.353000
+Z105 !s107 D:/simulation/CA/ca2/wnd.v|
+Z106 !s90 -reportprogress|300|-work|work|D:/simulation/CA/ca2/wnd.v|
 !i10b 1
 !s85 0
 !s101 -O0
