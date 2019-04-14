@@ -1,6 +1,7 @@
 `timescale 1ns/1ns
 module IM( input [9:0] pc,output [15:0] insOut);
   reg [15:0] im [0:1023];
+<<<<<<< Updated upstream
 
     integer i;
   initial begin
@@ -34,4 +35,11 @@ module IM( input [9:0] pc,output [15:0] insOut);
     im[22] = 16'b0001100000010100;//mem[20] = r2
   end
    assign insOut = im[pc];
+=======
+  
+  inital
+  
+  
+  assign insOut = im[pc];
+>>>>>>> Stashed changes
 endmodule 

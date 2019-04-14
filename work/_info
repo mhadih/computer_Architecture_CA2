@@ -18,12 +18,17 @@ r1
 Z9 !s90 -reportprogress|300|-work|work|D:/simulation/CA/mips/computer_Architecture_CA2/ALU.v|
 Z10 o-work work -O0
 Z11 n@a@l@u
+<<<<<<< Updated upstream
 Z12 !s108 1555217424.864000
+=======
+Z12 !s108 1555213951.825000
+>>>>>>> Stashed changes
 Z13 !s107 D:/simulation/CA/mips/computer_Architecture_CA2/ALU.v|
 !i10b 1
 !s85 0
 !s101 -O0
 vCA
+<<<<<<< Updated upstream
 Z14 !s100 eJ]GLD81B=UY2DfLZ:^Nm1
 Z15 IO07eTRLoI9_@JJ1;;LkgY1
 Z16 V_QeoD^6]?KzQ4j?YME;3@3
@@ -69,10 +74,19 @@ R4
 Z34 w1555217418
 Z35 8D:/simulation/CA/mips/computer_Architecture_CA2/DataPath.v
 Z36 FD:/simulation/CA/mips/computer_Architecture_CA2/DataPath.v
+=======
+Z14 IO07eTRLoI9_@JJ1;;LkgY1
+Z15 V_QeoD^6]?KzQ4j?YME;3@3
+R4
+Z16 w1555213898
+Z17 8D:/simulation/CA/mips/computer_Architecture_CA2/CA.v
+Z18 FD:/simulation/CA/mips/computer_Architecture_CA2/CA.v
+>>>>>>> Stashed changes
 L0 2
 R8
 r1
 31
+<<<<<<< Updated upstream
 Z37 !s90 -reportprogress|300|-work|work|D:/simulation/CA/mips/computer_Architecture_CA2/DataPath.v|
 R10
 Z38 !s100 LGOA=9Qnm<cC:Z0bQ^TMk1
@@ -88,11 +102,32 @@ R4
 Z43 w1554983836
 Z44 8D:/simulation/CA/mips/computer_Architecture_CA2/branchz.v
 Z45 FD:/simulation/CA/mips/computer_Architecture_CA2/branchz.v
+=======
+R10
+n@c@a
+Z19 !s100 eJ]GLD81B=UY2DfLZ:^Nm1
+Z20 !s108 1555213953.338000
+Z21 !s107 D:/simulation/CA/mips/computer_Architecture_CA2/CA.v|
+Z22 !s90 -reportprogress|300|-work|work|D:/simulation/CA/mips/computer_Architecture_CA2/CA.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vcontroller
+Z23 !s100 7?aS5E8hL6_1bTKgNSAmI2
+Z24 I<DmOYO2[`aIeD1I5L?MIf3
+Z25 VdJPQ[G9fcTlYJLlITEUJE3
+R4
+Z26 w1555212955
+Z27 8D:/simulation/CA/mips/computer_Architecture_CA2/contoroller.v
+Z28 FD:/simulation/CA/mips/computer_Architecture_CA2/contoroller.v
+>>>>>>> Stashed changes
 L0 2
 R8
 r1
 31
+Z29 !s90 -reportprogress|300|-work|work|D:/simulation/CA/mips/computer_Architecture_CA2/contoroller.v|
 R10
+<<<<<<< Updated upstream
 Z46 !s100 UYVRa=b7jX`EQ5[Y2SkdO3
 Z47 !s108 1554984270.408000
 Z48 !s107 D:/simulation/CA/mips/computer_Architecture_CA2/branchz.v|
@@ -108,18 +143,41 @@ R4
 Z53 w1555216936
 Z54 8D:/simulation/CA/mips/computer_Architecture_CA2/IM.v
 Z55 FD:/simulation/CA/mips/computer_Architecture_CA2/IM.v
+=======
+Z30 !s108 1555213950.359000
+Z31 !s107 D:/simulation/CA/mips/computer_Architecture_CA2/contoroller.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vdatapath
+Z32 InJ^X0jA?Fo;V5;F[k4;]M3
+Z33 V]oemI9MjZ_jn]o9N`:EN91
+R4
+R16
+Z34 8D:/simulation/CA/mips/computer_Architecture_CA2/DataPath.v
+Z35 FD:/simulation/CA/mips/computer_Architecture_CA2/DataPath.v
+>>>>>>> Stashed changes
 L0 2
 R8
 r1
 31
+<<<<<<< Updated upstream
 Z56 !s90 -reportprogress|300|-work|work|D:/simulation/CA/mips/computer_Architecture_CA2/IM.v|
 R10
 n@i@m
 Z57 !s108 1555217425.326000
 Z58 !s107 D:/simulation/CA/mips/computer_Architecture_CA2/IM.v|
+=======
+R10
+>>>>>>> Stashed changes
 !i10b 1
+Z36 !s100 ko_jP99[E>=]k13Pkzo:o3
 !s85 0
+Z37 !s108 1555213953.729000
+Z38 !s107 D:/simulation/CA/mips/computer_Architecture_CA2/DataPath.v|
+Z39 !s90 -reportprogress|300|-work|work|D:/simulation/CA/mips/computer_Architecture_CA2/DataPath.v|
 !s101 -O0
+<<<<<<< Updated upstream
 vmemory
 Z59 !s100 MMo?3gnP?iz[1omgj?e<Y2
 Z60 IT]ARj6zn02k604FjWF7791
@@ -128,10 +186,20 @@ R4
 Z62 w1555215926
 Z63 8D:/simulation/CA/mips/computer_Architecture_CA2/mem.v
 Z64 FD:/simulation/CA/mips/computer_Architecture_CA2/mem.v
+=======
+vextend
+Z40 Ib`8Z`U<DBb2>EU41Y<GF00
+Z41 V>A=51XS8W@fmE=RJg2ghe2
+R4
+Z42 w1554983836
+Z43 8D:/simulation/CA/mips/computer_Architecture_CA2/branchz.v
+Z44 FD:/simulation/CA/mips/computer_Architecture_CA2/branchz.v
+>>>>>>> Stashed changes
 L0 2
 R8
 r1
 31
+<<<<<<< Updated upstream
 Z65 !s90 -reportprogress|300|-work|work|D:/simulation/CA/mips/computer_Architecture_CA2/mem.v|
 R10
 Z66 !s108 1555217425.658000
@@ -147,18 +215,64 @@ Z70 w1554984230
 Z71 8D:/simulation/CA/mips/computer_Architecture_CA2/mux.v
 Z72 FD:/simulation/CA/mips/computer_Architecture_CA2/mux.v
 L0 3
+=======
+R10
+Z45 !s100 UYVRa=b7jX`EQ5[Y2SkdO3
+Z46 !s108 1554984270.408000
+Z47 !s107 D:/simulation/CA/mips/computer_Architecture_CA2/branchz.v|
+Z48 !s90 -reportprogress|300|-work|work|D:/simulation/CA/mips/computer_Architecture_CA2/branchz.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vIM
+Z49 !s100 iF56hz@GffQM<fd:cb6^Z1
+Z50 I48MNS_`nz:gB1]B3620Bn0
+Z51 V8@QQAIRZ0dE0Pff`2^1aL3
+R4
+R26
+Z52 8D:/simulation/CA/mips/computer_Architecture_CA2/IM.v
+Z53 FD:/simulation/CA/mips/computer_Architecture_CA2/IM.v
+L0 2
+>>>>>>> Stashed changes
 R8
 r1
 31
+Z54 !s90 -reportprogress|300|-work|work|D:/simulation/CA/mips/computer_Architecture_CA2/IM.v|
 R10
+<<<<<<< Updated upstream
 Z73 !s100 3XZO]kFmco^;Bzh?bA_Fa3
 Z74 !s108 1554984270.823000
 Z75 !s107 D:/simulation/CA/mips/computer_Architecture_CA2/mux.v|
 Z76 !s90 -reportprogress|300|-work|work|D:/simulation/CA/mips/computer_Architecture_CA2/mux.v|
+=======
+n@i@m
+Z55 !s108 1555213952.208000
+Z56 !s107 D:/simulation/CA/mips/computer_Architecture_CA2/IM.v|
+>>>>>>> Stashed changes
 !i10b 1
 !s85 0
 !s101 -O0
+vmemory
+!i10b 1
+!s100 hKfOU^h3=mRQM13MhSoeb0
+I=ALaeX@STIk]K]SY3:18a0
+Z57 VIXkFFogma54S1zk9E7<S[3
+R4
+w1555214090
+Z58 8D:/simulation/CA/mips/computer_Architecture_CA2/mem.v
+Z59 FD:/simulation/CA/mips/computer_Architecture_CA2/mem.v
+L0 2
+R8
+r1
+!s85 0
+31
+!s108 1555214095.163000
+!s107 D:/simulation/CA/mips/computer_Architecture_CA2/mem.v|
+Z60 !s90 -reportprogress|300|-work|work|D:/simulation/CA/mips/computer_Architecture_CA2/mem.v|
+!s101 -O0
+R10
 vMUX
+<<<<<<< Updated upstream
 !i10b 1
 Z77 !s100 kga?eG8IUKKo@bkC6bkLO3
 Z78 I_5[B1Z=JNPPjgcmPKb:dn0
@@ -170,6 +284,44 @@ R72
 L0 2
 R8
 r1
+=======
+Z61 !s100 `=C6hLNHkPQ0bPMOO64]U2
+Z62 I>1b;b1VhGih2S`kzQ_VHR1
+Z63 VbGdJMVm]Wj^?fT^XKl;2V2
+R4
+R26
+Z64 8D:/simulation/CA/mips/computer_Architecture_CA2/mux.v
+Z65 FD:/simulation/CA/mips/computer_Architecture_CA2/mux.v
+L0 2
+R8
+r1
+31
+Z66 !s90 -reportprogress|300|-work|work|D:/simulation/CA/mips/computer_Architecture_CA2/mux.v|
+R10
+Z67 n@m@u@x
+Z68 !s108 1555213951.429000
+Z69 !s107 D:/simulation/CA/mips/computer_Architecture_CA2/mux.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vmux
+Z70 Ic4_8>jCh7G`]CM==P?_e10
+Z71 V_0ITh=U9^Vb;[ZVWN9gnC3
+R4
+Z72 w1554984230
+R64
+R65
+L0 3
+R8
+r1
+31
+R10
+Z73 !s100 3XZO]kFmco^;Bzh?bA_Fa3
+Z74 !s108 1554984270.823000
+R69
+R66
+!i10b 1
+>>>>>>> Stashed changes
 !s85 0
 31
 !s108 1555217694.977000
@@ -179,6 +331,7 @@ R76
 R10
 Z81 n@m@u@x
 vPC
+<<<<<<< Updated upstream
 Z82 !s100 DZUA6YSfZkJa7aElcg5[n3
 Z83 I>h?O=6G4PaEUmGO1z1JnA2
 Z84 VYF855kRkYj7=1?N2jd0i70
@@ -186,19 +339,37 @@ R4
 Z85 w1554984210
 Z86 8D:/simulation/CA/mips/computer_Architecture_CA2/PC.v
 Z87 FD:/simulation/CA/mips/computer_Architecture_CA2/PC.v
+=======
+Z75 !s100 DZUA6YSfZkJa7aElcg5[n3
+Z76 I>h?O=6G4PaEUmGO1z1JnA2
+Z77 VYF855kRkYj7=1?N2jd0i70
+R4
+Z78 w1554984210
+Z79 8D:/simulation/CA/mips/computer_Architecture_CA2/PC.v
+Z80 FD:/simulation/CA/mips/computer_Architecture_CA2/PC.v
+>>>>>>> Stashed changes
 L0 3
 R8
 r1
 31
+<<<<<<< Updated upstream
 Z88 !s90 -reportprogress|300|-work|work|D:/simulation/CA/mips/computer_Architecture_CA2/PC.v|
 R10
 n@p@c
 Z89 !s108 1555217424.145000
 Z90 !s107 D:/simulation/CA/mips/computer_Architecture_CA2/PC.v|
+=======
+Z81 !s90 -reportprogress|300|-work|work|D:/simulation/CA/mips/computer_Architecture_CA2/PC.v|
+R10
+n@p@c
+Z82 !s108 1555213951.077000
+Z83 !s107 D:/simulation/CA/mips/computer_Architecture_CA2/PC.v|
+>>>>>>> Stashed changes
 !i10b 1
 !s85 0
 !s101 -O0
 vreadFile
+<<<<<<< Updated upstream
 Z91 !s100 BFei<=K[M2mHl<51caRIc0
 Z92 Ik[6:0928`NahRQCT5lbkT1
 Z93 V][dmSlzk0Nzha=^8GNaz>3
@@ -206,19 +377,37 @@ R4
 Z94 w1554982401
 Z95 8D:/simulation/CA/mips/computer_Architecture_CA2/readFile.v
 Z96 FD:/simulation/CA/mips/computer_Architecture_CA2/readFile.v
+=======
+Z84 !s100 BFei<=K[M2mHl<51caRIc0
+Z85 Ik[6:0928`NahRQCT5lbkT1
+Z86 V][dmSlzk0Nzha=^8GNaz>3
+R4
+Z87 w1554982401
+Z88 8D:/simulation/CA/mips/computer_Architecture_CA2/readFile.v
+Z89 FD:/simulation/CA/mips/computer_Architecture_CA2/readFile.v
+>>>>>>> Stashed changes
 L0 2
 R8
 r1
 31
+<<<<<<< Updated upstream
 Z97 !s90 -reportprogress|300|-work|work|D:/simulation/CA/mips/computer_Architecture_CA2/readFile.v|
 R10
 Z98 nread@file
 Z99 !s108 1554984270.175000
 Z100 !s107 D:/simulation/CA/mips/computer_Architecture_CA2/readFile.v|
+=======
+Z90 !s90 -reportprogress|300|-work|work|D:/simulation/CA/mips/computer_Architecture_CA2/readFile.v|
+R10
+Z91 nread@file
+Z92 !s108 1554984270.175000
+Z93 !s107 D:/simulation/CA/mips/computer_Architecture_CA2/readFile.v|
+>>>>>>> Stashed changes
 !i10b 1
 !s85 0
 !s101 -O0
 vRegFile
+<<<<<<< Updated upstream
 Z101 !s100 S5DS5[A]HmA0HgT_X=Z591
 Z102 IAIT=KTLoY1AXS?nccATQc1
 Z103 VRmDl`IG]3U]^0zC1YHdmo0
@@ -226,19 +415,37 @@ R4
 R26
 Z104 8D:/simulation/CA/mips/computer_Architecture_CA2/registerFile.v
 Z105 FD:/simulation/CA/mips/computer_Architecture_CA2/registerFile.v
+=======
+Z94 !s100 S5DS5[A]HmA0HgT_X=Z591
+Z95 IAIT=KTLoY1AXS?nccATQc1
+Z96 VRmDl`IG]3U]^0zC1YHdmo0
+R4
+R26
+Z97 8D:/simulation/CA/mips/computer_Architecture_CA2/registerFile.v
+Z98 FD:/simulation/CA/mips/computer_Architecture_CA2/registerFile.v
+>>>>>>> Stashed changes
 L0 2
 R8
 r1
 31
+<<<<<<< Updated upstream
 Z106 !s90 -reportprogress|300|-work|work|D:/simulation/CA/mips/computer_Architecture_CA2/registerFile.v|
 R10
 Z107 n@reg@file
 Z108 !s108 1555217426.147000
 Z109 !s107 D:/simulation/CA/mips/computer_Architecture_CA2/registerFile.v|
+=======
+Z99 !s90 -reportprogress|300|-work|work|D:/simulation/CA/mips/computer_Architecture_CA2/registerFile.v|
+R10
+Z100 n@reg@file
+Z101 !s108 1555213953.005000
+Z102 !s107 D:/simulation/CA/mips/computer_Architecture_CA2/registerFile.v|
+>>>>>>> Stashed changes
 !i10b 1
 !s85 0
 !s101 -O0
 vsignExtend
+<<<<<<< Updated upstream
 Z110 !s100 V:QMo9dXlJL1@nbWTLZ5=1
 Z111 IdkDl[iPJPPendlk2UO9eo1
 Z112 Va6BMhP1hFE?KoUXRai81@3
@@ -266,34 +473,67 @@ R4
 Z122 w1555216866
 Z123 8D:/simulation/CA/mips/computer_Architecture_CA2/TB.v
 Z124 FD:/simulation/CA/mips/computer_Architecture_CA2/TB.v
+=======
+Z103 !s100 V:QMo9dXlJL1@nbWTLZ5=1
+Z104 IdkDl[iPJPPendlk2UO9eo1
+Z105 Va6BMhP1hFE?KoUXRai81@3
+R4
+R26
+Z106 8D:/simulation/CA/mips/computer_Architecture_CA2/extend.v
+Z107 FD:/simulation/CA/mips/computer_Architecture_CA2/extend.v
+>>>>>>> Stashed changes
 L0 2
 R8
 r1
 31
+<<<<<<< Updated upstream
 Z125 !s90 -reportprogress|300|-work|work|D:/simulation/CA/mips/computer_Architecture_CA2/TB.v|
 R10
 n@t@b
+=======
+Z108 !s90 -reportprogress|300|-work|work|D:/simulation/CA/mips/computer_Architecture_CA2/extend.v|
+R10
+Z109 nsign@extend
+Z110 !s108 1555213950.640000
+Z111 !s107 D:/simulation/CA/mips/computer_Architecture_CA2/extend.v|
+>>>>>>> Stashed changes
 !i10b 1
 !s85 0
 Z126 !s108 1555217427.601000
 Z127 !s107 D:/simulation/CA/mips/computer_Architecture_CA2/TB.v|
 !s101 -O0
 vwnd
+<<<<<<< Updated upstream
 Z128 If:KAmc_jR=QlRi<RA?9S]2
 Z129 VPg8WEdUL=CDRAhU1G@k0l3
 Z130 dD:\simulation\CA\ca2
 Z131 w1554368117
 Z132 8D:/simulation/CA/ca2/wnd.v
 Z133 FD:/simulation/CA/ca2/wnd.v
+=======
+Z112 If:KAmc_jR=QlRi<RA?9S]2
+Z113 VPg8WEdUL=CDRAhU1G@k0l3
+Z114 dD:\simulation\CA\ca2
+Z115 w1554368117
+Z116 8D:/simulation/CA/ca2/wnd.v
+Z117 FD:/simulation/CA/ca2/wnd.v
+>>>>>>> Stashed changes
 L0 2
 R8
 r1
 31
 R10
+<<<<<<< Updated upstream
 Z134 !s100 1oTDTjRdUVjd_Ug8X<1Al2
 Z135 !s108 1554375540.353000
 Z136 !s107 D:/simulation/CA/ca2/wnd.v|
 Z137 !s90 -reportprogress|300|-work|work|D:/simulation/CA/ca2/wnd.v|
+=======
+Z118 !s100 1oTDTjRdUVjd_Ug8X<1Al2
+Z119 !s108 1554375540.353000
+Z120 !s107 D:/simulation/CA/ca2/wnd.v|
+Z121 !s90 -reportprogress|300|-work|work|D:/simulation/CA/ca2/wnd.v|
+>>>>>>> Stashed changes
 !i10b 1
 !s85 0
 !s101 -O0

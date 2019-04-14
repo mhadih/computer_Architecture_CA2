@@ -5,13 +5,6 @@ Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
 Top level modules:
 	datapath
 
-} {} {}} D:/simulation/CA/mips/computer_Architecture_CA2/mem.v {1 {vlog -work work D:/simulation/CA/mips/computer_Architecture_CA2/mem.v
-Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
--- Compiling module memory
-
-Top level modules:
-	memory
-
 } {} {}} D:/simulation/CA/mips/computer_Architecture_CA2/contoroller.v {1 {vlog -work work D:/simulation/CA/mips/computer_Architecture_CA2/contoroller.v
 Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
 -- Compiling module controller
@@ -46,13 +39,6 @@ Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
 
 Top level modules:
 	RegFile
-
-} {} {}} D:/simulation/CA/mips/computer_Architecture_CA2/TB.v {1 {vlog -work work D:/simulation/CA/mips/computer_Architecture_CA2/TB.v
-Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
--- Compiling module TB
-
-Top level modules:
-	TB
 
 } {} {}} D:/simulation/CA/mips/computer_Architecture_CA2/ALU.v {1 {vlog -work work D:/simulation/CA/mips/computer_Architecture_CA2/ALU.v
 Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012

@@ -1,6 +1,7 @@
 `timescale 1ns/1ns
 module memory(input [9:0] adr,input [15:0] data,input memwen,clk,output resMem);
   reg [15:0] m [0:1023];
+<<<<<<< Updated upstream
   
   initial begin
     
@@ -16,6 +17,20 @@ module memory(input [9:0] adr,input [15:0] data,input memwen,clk,output resMem);
   
   end
 
+=======
+  initial begin
+    m[100] = 1;
+    m[100] = 2;
+    m[100] = 3;
+    m[100] = 4;
+    m[100] = 5;
+    m[100] = 6;
+    m[100] = 7;
+    m[100] = 8;
+    m[100] = 9;
+    m[100] = 10;
+  end
+>>>>>>> Stashed changes
   always @(posedge clk) begin
     if(memwen) begin
       m[adr] <= data;
