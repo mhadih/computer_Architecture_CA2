@@ -1,9 +1,9 @@
-D:/simulation/CA/mips/computer_Architecture_CA2/mem.v {1 {vlog -work work D:/simulation/CA/mips/computer_Architecture_CA2/mem.v
+D:/simulation/CA/mips/computer_Architecture_CA2/DataPath.v {1 {vlog -work work D:/simulation/CA/mips/computer_Architecture_CA2/DataPath.v
 Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
--- Compiling module memory
+-- Compiling module datapath
 
 Top level modules:
-	memory
+	datapath
 
 } {} {}} D:/simulation/CA/mips/computer_Architecture_CA2/contoroller.v {1 {vlog -work work D:/simulation/CA/mips/computer_Architecture_CA2/contoroller.v
 Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
@@ -19,6 +19,13 @@ Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
 Top level modules:
 	PC
 
+} {} {}} D:/simulation/CA/mips/computer_Architecture_CA2/CA.v {1 {vlog -work work D:/simulation/CA/mips/computer_Architecture_CA2/CA.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module CA
+
+Top level modules:
+	CA
+
 } {} {}} D:/simulation/CA/mips/computer_Architecture_CA2/extend.v {1 {vlog -work work D:/simulation/CA/mips/computer_Architecture_CA2/extend.v
 Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
 -- Compiling module signExtend
@@ -26,12 +33,12 @@ Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
 Top level modules:
 	signExtend
 
-} {} {}} D:/simulation/CA/mips/computer_Architecture_CA2/IM.v {1 {vlog -work work D:/simulation/CA/mips/computer_Architecture_CA2/IM.v
+} {} {}} D:/simulation/CA/mips/computer_Architecture_CA2/registerFile.v {1 {vlog -work work D:/simulation/CA/mips/computer_Architecture_CA2/registerFile.v
 Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
--- Compiling module IM
+-- Compiling module RegFile
 
 Top level modules:
-	IM
+	RegFile
 
 } {} {}} D:/simulation/CA/mips/computer_Architecture_CA2/ALU.v {1 {vlog -work work D:/simulation/CA/mips/computer_Architecture_CA2/ALU.v
 Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
